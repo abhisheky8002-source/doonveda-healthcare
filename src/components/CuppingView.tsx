@@ -23,84 +23,84 @@ export default function CuppingView() {
       title: "Back Pain / Shoulder Pain",
       description: "Cupping therapy or Hijama for back pain is an effective and safe approach that helps relieve muscle stiffness, improve blood circulation, and reduce tension in affected areas. It supports natural pain relief and relaxation through targeted therapy designed for holistic wellness and long-term comfort.",
       icon: Zap,
-      illustration: "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=400&q=80",
+      illustration: "https://res.cloudinary.com/dr5obadvt/image/upload/v1780145394/Back_Pain_Shoulder_pain.jpg_oziesj.png",
       tag: "Pain Management"
     },
     {
       title: "Sciatica",
       description: "Sciatica can be supported through cupping therapy, which focuses on reducing nerve-related pain, muscle tightness, and inflammation. By improving blood flow and releasing tension along affected areas, it helps ease discomfort and supports better mobility.",
       icon: ShieldAlert,
-      illustration: "https://images.unsplash.com/photo-1512290923902-8a9f81dc236c?auto=format&fit=crop&w=400&q=80",
+      illustration: "https://res.cloudinary.com/dr5obadvt/image/upload/v1780145393/Sciatica.jpg_e45b4v.png",
       tag: "Pain Management"
     },
     {
       title: "Leg Pain",
       description: "Cupping therapy can provide relief from different types of leg pain, including muscle cramps, soreness, and stiffness. It is commonly used by athletes and individuals with chronic discomfort to improve circulation, reduce pain, and support better movement.",
       icon: Timer,
-      illustration: "https://images.unsplash.com/photo-1502082553048-f009c37129b9?auto=format&fit=crop&w=400&q=80",
+      illustration: "https://res.cloudinary.com/dr5obadvt/image/upload/v1780145396/Leg_Pain.jpg_rqhflz.png",
       tag: "Pain Management"
     },
     {
       title: "Migraine",
       description: "Cupping therapy may help reduce the frequency and intensity of migraines by addressing muscle tension and improving circulation. This holistic approach supports relaxation of the nervous system and helps reduce common migraine triggers.",
       icon: Brain,
-      illustration: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=400&q=80",
+      illustration: "https://res.cloudinary.com/dr5obadvt/image/upload/v1780145395/Migraine.jpg_wbtkm8.png",
       tag: "Neurological"
     },
     {
       title: "Immune System Support",
       description: "Cupping therapy is believed to support the body’s natural detoxification process by improving circulation and lymphatic flow. This helps maintain overall balance in the body and supports general wellness and immunity.",
       icon: ShieldCheck,
-      illustration: "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=400&q=80",
+      illustration: "https://res.cloudinary.com/dr5obadvt/image/upload/v1780145395/Immunity_System_Booster.jpg_wpjd2o.png",
       tag: "Immunity"
     },
     {
       title: "Skin Problems (Acne / Pimples)",
       description: "Cupping therapy may help improve skin health by increasing blood circulation and reducing inflammation. It supports detoxification of the skin, which can help improve conditions like acne, pimples, and uneven skin texture.",
       icon: Sparkles,
-      illustration: "https://images.unsplash.com/photo-1512290923902-8a9f81dc236c?auto=format&fit=crop&w=400&q=80",
+      illustration: "https://res.cloudinary.com/dr5obadvt/image/upload/v1780145394/Skin_problems.jpg_rqqjfy.png",
       tag: "Skin Care"
     },
     {
       title: "Facial Cupping",
       description: "Facial cupping helps improve blood flow to facial tissues, supports collagen production, and promotes lymphatic drainage. It may help reduce puffiness, improve skin texture, and give a more refreshed and healthy appearance.",
       icon: Smile,
-      illustration: "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?auto=format&fit=crop&w=400&q=80",
+      illustration: "https://res.cloudinary.com/dr5obadvt/image/upload/v1780145394/Facial_Cupping.jpg_yirxv1.png",
       tag: "Cosmetic"
     },
     {
       title: "Cellulite",
       description: "Cupping therapy may help improve the appearance of cellulite by increasing circulation and supporting tissue stimulation. Over time, it can help improve skin texture and smoothness in affected areas.",
       icon: Droplet,
-      illustration: "https://images.unsplash.com/photo-1515377905703-c4788e51af15?auto=format&fit=crop&w=400&q=80",
+      illustration: "https://res.cloudinary.com/dr5obadvt/image/upload/v1780145395/Cellulite.jpg_aczm4m.png",
       tag: "Cosmetic"
     },
     {
       title: "Hair Loss Support",
       description: "Cupping therapy may help support hair health by improving blood circulation to the scalp and enhancing nutrient delivery to hair follicles. This can help strengthen hair roots, support natural growth, and reduce scalp tension that is often linked with hair fall and thinning.",
       icon: TrendingUp,
-      illustration: "https://drive.google.com/file/d/1BobV96VD4gdWltQnHYSbNhVudD-7quf_/view",
+      illustration: "https://res.cloudinary.com/dr5obadvt/image/upload/v1780145395/Hair_Loss.jpg_pvqk14.png",
       tag: "Hair & Scalp"
     },
     {
       title: "Erectile Dysfunction Support",
       description: "Cupping therapy may support male wellness by improving blood circulation and energy flow in the body. It is used as part of a holistic approach to help support confidence, stamina, and overall vitality.",
       icon: Flame,
-      illustration: "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?auto=format&fit=crop&w=400&q=80",
+      illustration: "https://res.cloudinary.com/dr5obadvt/image/upload/v1780145394/Erectile_Dysfunction_Support.jpg_fbwjce.jpg",
       tag: "Men's Wellness"
     },
     {
       title: "General Men’s Health Support",
       description: "This therapy supports overall male wellness by promoting better circulation, balance, and energy levels. It is designed to support physical and mental well-being through natural therapeutic methods.",
       icon: ShieldCheck,
-      illustration: "https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?auto=format&fit=crop&w=400&q=80",
+      illustration: "https://res.cloudinary.com/dr5obadvt/image/upload/v1780145395/General_Men_s_Health_Support.jpg_qbcznh.jpg",
       tag: "Men's Wellness"
     },
     {
       title: "Breast Wellness & Body Confidence Support",
       description: "Cupping therapy is sometimes used as part of holistic wellness approaches that support body confidence, circulation, and overall balance. It focuses on natural wellness support rather than aggressive or surgical methods.",
       icon: Heart,
-      illustration: "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=400&q=80",
+      illustration: "https://res.cloudinary.com/dr5obadvt/image/upload/v1780145394/Breast_Enlargement_by_Cupping_Ayurveda.jpg_sydcvu.png",
       tag: "Women's Wellness"
     }
   ];

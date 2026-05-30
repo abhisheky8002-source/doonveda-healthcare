@@ -57,7 +57,7 @@ export default function DisordersView({ selectedServiceId, setSelectedServiceId 
       id: "female-breast-upliftment",
       title: "Breast Upliftment (Non-Surgical)",
       description: "A non-surgical procedure by DoonVeda that reshapes and raises breasts. Supports firmness and shape improvement using natural Ayurvedic wellness and firming methods. It can help with sagging breasts caused by weight loss, pregnancy, breastfeeding, genetics, or aging.",
-      image: "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=650&q=80", // Clean wellness towel/spa and flower layout representation
+      image: "https://res.cloudinary.com/dr5obadvt/image/upload/v1780145395/Breast_Upliftment.jpg_neqvob.png",
       icon: Leaf,
     },
   ];
