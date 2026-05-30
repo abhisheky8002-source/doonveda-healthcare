@@ -1,0 +1,6 @@
+{
+  "name": "DoonVeda Healthcare Centre Gurugram",
+  "description": "Premium Ayurvedic clinic for sexual disorders, infertility, and cupping therapy in Gurugram, offering confidential, natural, and result-oriented treatment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
